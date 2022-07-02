@@ -1,0 +1,9 @@
+.table__cell{
+  /*border: 1px solid rgb(153, 140, 255);*/
+  display: block;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 250px;
+  margin-top: 60px;
+  z-index: 2;
+}

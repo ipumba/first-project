@@ -1,0 +1,9 @@
+.feynman{
+  margin: 0px auto;
+  align-content: center;
+  background: #F2F2F2 url(/images/feynman.png)
+  no-repeat bottom left;
+  background-size: 867px 637px;
+  height: 890px;
+  position: relative;
+}

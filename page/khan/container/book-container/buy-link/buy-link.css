@@ -1,0 +1,11 @@
+.buy-link{
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.buy-link:hover{
+  transition: opacity .3s linear;
+  opacity: .5;
+  }

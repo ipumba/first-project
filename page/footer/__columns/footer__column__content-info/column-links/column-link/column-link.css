@@ -1,0 +1,14 @@
+.column-link{
+  display: flex;
+  color: #f2f2f2;
+  margin-bottom: 10px;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  height: 16px;
+  text-decoration: none;
+}
+.column-link:hover{
+transition: opacity .3s linear;
+opacity: .5;
+}

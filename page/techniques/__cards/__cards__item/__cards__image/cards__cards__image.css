@@ -1,0 +1,7 @@
+.cards__image{
+  /*border: 1px solid rgb(125, 172, 55);*/
+  width: 160px;
+  height: 160px;
+  padding: 60px 40px 43px 40px;
+  border-radius: 100%;
+}
